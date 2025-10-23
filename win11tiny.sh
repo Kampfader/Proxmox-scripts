@@ -3,8 +3,8 @@
 # === Konfiguration ===
 VMID=110
 VMNAME="win11tiny"
-ISOFILE="tiny11x64_23H2.iso"
-VIRTIOISO="virtio-win.iso"
+ISOFILE="tiny11x64_23H2.iso"  # https://archive.org/download/tiny-11-NTDEV/tiny11%2023H2%20x64.iso
+VIRTIOISO="virtio-win.iso"    # https://fedorapeople.org/groups/virt/virtio-win/direct-downloads/archive-virtio/virtio-win-0.1.271-1/virtio-win.iso
 STORAGE="BigSSD"
 CORES=4
 RAM=8192
